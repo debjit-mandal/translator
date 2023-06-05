@@ -11,3 +11,5 @@ To run this code locally:
 `cd translator`
 
 `python main.py`
+
+Fell free to suggest any kind of improvements.
