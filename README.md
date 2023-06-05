@@ -1,5 +1,5 @@
-# translator
-It is a Language Translator made using Python. 
+# Language Translator and Detector
+It is a Language Translator and Detector made using Python. 
 
 The `googletrans` package must be installed before running this code. It can be installed using pip:
 
